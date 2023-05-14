@@ -1,8 +1,8 @@
 #!/bin/bash
 #!/bin/bash
 #
-# Project     : ZTC EPS
-# Author      : Thomas Pliakas (thomas.pliakas@nokia.com)
+# Project     : Apache Kakfka TLS support
+# Author      : Thomas Pliakas (tpliakas@gmail.com)
 # Filename    : create-certs.sh
 # Description : This script cretes certificates for kafka brokers, producers and consumers.
 #
