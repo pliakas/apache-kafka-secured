@@ -19,7 +19,7 @@ first broker logs.
 
 Alternative, you can run the `docker-compose up` to see the logs in the terminal.
 
-The docker compose file, will startup 3 kafka brokes and one zookeeper. Verify from the logs that kafka cluster is up 
+The docker compose file, will startup three kafka brokes and one zookeeper. Verify from the logs that kafka cluster is up 
 and running. 
 
 ```sh 

@@ -4,7 +4,7 @@
 # Project     : Apache Kakfka TLS support
 # Author      : Thomas Pliakas (tpliakas@gmail.com)
 # Filename    : create-certs.sh
-# Description : This script cretes certificates for kafka brokers, producers and consumers.
+# Description : This script creates certificates for kafka brokers, producers and consumers.
 #
 # For debugging the script, uncomment the following line
 # set -x
